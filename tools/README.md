@@ -1,14 +1,11 @@
-### 记录工具相关学习
+# 工具
 
-* [GitBook](GitBook/README.md)
-  * [安装 GitBook](GitBook/installing.md)
-  * [关联 GitHub](GitBook/releatedGithub.md)
-  * [配置自定义域名](GitBook/configDomain.md)
-
-* [Jenkins](Jenkins/README.md)
-  * [安装 Jenkins](Jenkins/install.md)
-  * [权限分配](Jenkins/manageAssign.md)
-  * [构建 Android 项目](Jenkins/buildAndroid.md)
-
-
+* [GitBook](gitbook/)
+  * [安装 GitBook](gitbook/installing.md)
+  * [关联 GitHub](gitbook/releatedgithub.md)
+  * [配置自定义域名](gitbook/configdomain.md)
+* [Jenkins](jenkins/)
+  * [安装 Jenkins](jenkins/install.md)
+  * [权限分配](jenkins/manageassign.md)
+  * [构建 Android 项目](jenkins/buildandroid.md)
 

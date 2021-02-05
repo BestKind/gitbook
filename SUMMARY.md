@@ -1,14 +1,15 @@
-# Summary
+# Table of contents
 
+* [Introduction](README.md)
 * [工具](tools/README.md)
-  * [GitBook](tools/GitBook/README.md)
-    * [安装 GitBook](tools/GitBook/installing.md)
-    * [关联 GitHub](tools/GitBook/releatedGithub.md)
-    * [配置自定义域名](tools/GitBook/configDomain.md)
-  * [Jenkins](tools/Jenkins/README.md)
-    * [安装 Jenkins](tools/Jenkins/install.md)
-    * [权限分配](tools/Jenkins/manageAssign.md)
-    * [构建 Android 项目](tools/Jenkins/buildAndroid.md)
+  * [GitBook](tools/gitbook/README.md)
+    * [安装 GitBook](tools/gitbook/installing.md)
+    * [关联 GitHub](tools/gitbook/releatedgithub.md)
+    * [配置自定义域名](tools/gitbook/configdomain.md)
+  * [Jenkins](tools/jenkins/README.md)
+    * [安装 Jenkins](tools/jenkins/install.md)
+    * [权限分配](tools/jenkins/manageassign.md)
+    * [构建 Android 项目](tools/jenkins/buildandroid.md)
 
 - [docker](docker/README.md)
   - [nrmp](docker/nrmp/README.md)

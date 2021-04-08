@@ -13,6 +13,9 @@
 - [docker](docker/README.md)
   - [nrmp](docker/nrmp/README.md)
     - [配置详情](docker/nrmp/config.md)
+- [Python](./Python/README.md)
+  - [搭建一个简单的 `Django` 应用](./Python/Start.md)
+  - [Restframework token 认证](./Python/Auth.md)
 
 
 

@@ -12,8 +12,10 @@
     * [构建 Android 项目](tools/jenkins/buildandroid.md)
 
 - [docker](docker/README.md)
-  - [nrmp](docker/nrmp/README.md)
-    - [配置详情](docker/nrmp/config.md)
+  - [lnrmp](docker/lnrmp/README.md)
+    - [配置详情](docker/lnrmp/config.md)
+  - [redis-cluster](docker/Redis-cluster/README.md)
+    - [配置详情](docker/Redis-cluster/config.md)
 - [Python](./Python/README.md)
   - [搭建一个简单的 `Django` 应用](./Python/Start.md)
   - [Restframework token 认证](./Python/Auth.md)

@@ -1,6 +1,6 @@
-## `nrmp` 环境搭建
+## `lnrmp` 环境搭建
 
-nrmp 是指  Nginx  Redis MySQL php-fpm 环境，本章通过 docker-compose 的方式搭建 nrmp 环境
+`lnrmp` 是指  `Linux Nginx  Redis MySQL php-fpm` 环境，本章通过 `docker-compose` 的方式搭建 `lnrmp` 环境
 
 文件目录格式如下
 
